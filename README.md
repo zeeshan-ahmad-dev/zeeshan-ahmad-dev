@@ -6,8 +6,13 @@
 🎯 #learninginpublic through personal projects and freelance gigs<br/>
 📈 Diving into backend development next!<br/>
 <br/>
-#### My current stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zeeshan-ahmad-dev)](https://git.io/streak-stats)
 
-#### Languages used
-![Zeeshan Ahmad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-ahmad-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeeshan-ahmad-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+# 💻Tech Stack
+![HTML Badge](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery Badge](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Vue Badge](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
