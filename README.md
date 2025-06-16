@@ -22,6 +22,4 @@
 ![MySQL Badge](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-# Total Visitors:
-![Visitors](https://profile-counter.glitch.me/zeeshan-ahmad-dev/count.svg)
 
