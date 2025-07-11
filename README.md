@@ -1,10 +1,11 @@
 ## Hi, I'm Zeeshan Ahmad!
 
-#### I'm a 2nd year student learning and sharing my journey of web development<br/>
-💻 Aspiring Full Stack Developer on a journey to master web development<br/>
-🌐 Currently focused on HTML, CSS, JavaScript, jQuery, Tailwind CSS and Vue.js<br/>
-🎯 #learninginpublic through personal projects and freelance gigs<br/>
-📈 Diving into backend development next!<br/>
+####I'm a full stack web developer passionate about building modern, responsive, and user-focused websites and apps.<br/>
+💻 Completed 2nd year of college (awaiting results)<br>
+🌐 Skilled in HTML, CSS, JavaScript, jQuery, Tailwind CSS, Vue.js<br>
+🛠️ Backend: Node.js, MySQL, MongoDB<br>
+🎯 Building real-world projects & working on freelance gigs<br>
+🚀 Always learning — currently improving my full stack skills and project depth<br>
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeeshan-ahmad-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
